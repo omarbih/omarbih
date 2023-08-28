@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarbih
 - 👀 I’m interested in NET and SQL Server... 
-- 🌱 I’m currently learning transparent bootstrap card list :D
+- 🌱 I’m b2b 
 - 💞️ I’m looking to perfect my skills.
 - 📫 How to reach me ...
 
